@@ -13,14 +13,10 @@ https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive
 Proyecto plataformas con unity.
 https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link
 
-
-```
-[[/images/SlayTheCorruptedBanner.png|Banner de Slay The Corrupted]]
-```
-
 Proyecto final del curso, integracion de elementos roguelike, dessarrollo de bosses con mecanicas flow dentro de unity
 https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link
 
+![SlayTheCorruptedBanner](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/338e0795-047e-4d9a-91e0-8b7cfbbb0aa3)(https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link)
 
 Tel. 667 96 94 15
 Correo. jsellares01@gmail.com
