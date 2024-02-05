@@ -1,4 +1,4 @@
-Hola a todos, este es mi portfolio donde muestro todos los proyectos de videojuegos que he realizado durante mis estudios y experiencia laboral.
+Hola a todos, este es mi porfolio donde muestro todos los proyectos de videojuegos que he realizado durante mis estudios y experiencia laboral.
 
 He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y Ocio centrado en la programación de videojuegos, he trabajado mayoritariamente con Unity durante el curso, aprendiendo diferentes estilos de juegos que crear con el motor.
 
