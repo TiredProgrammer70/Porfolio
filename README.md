@@ -7,11 +7,9 @@ He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y O
 
 En este ciclo he realizado diferentes proyectos con los que aprendi programación de Unity.
 
-[Mi primer proyecto, con un compañero, Torre de desafios]
-(https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
+[Mi primer proyecto, con un compañero, Torre de desafios](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
 
-[Proyecto plataformas con unity.]
-(https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
+[Proyecto plataformas con unity.](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
 
 Proyecto final del curso, integracion de elementos roguelike, dessarrollo de bosses con mecanicas flow dentro de unity
 
