@@ -22,7 +22,7 @@ SpaceScape fue mi segundo gran proyecto y proyecto de final del primer año del 
 
 SpaceScape lo cree como un plataformas 2D para practicar las fisicas de gravedad y la configuración de las mismas, en este proyecto tambien aprendi a crear parallax con codigo, la funcionalidad de que los objetos del fondo se muevan a diferentes velocidades mientras avanzas por el juego.
 
-[Proyecto plataformas con unity.](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
+[Descargar](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
 
 (Torre de desafios)
 
@@ -32,9 +32,9 @@ La torre de desafiós fue mi primer proyecto de programación en todo el curso, 
 
 Mi aportación en el proyecto fue un poco más de la mitad ya que lo cree con un compañero de ciclo, me ayudo a trabajar mi trabajo en equipo a la hora de programar.
 
-[Mi primer proyecto, Torre de desafios](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
+[Descargar](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
 
-![telefono](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/b923ffe5-53ca-46d2-b925-deb32bc2404f) 667 96 94 15
-![correo](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/3b0310d4-f3d4-4a54-ae40-a6f0b3c4092a) jsellares01@gmail.com
-[![LinkedIn](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/9c19336a-8939-4cf7-af72-4a9564dc3a38)](https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES)
+![telefono](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/17faf312-6d4d-46e9-a7e0-e59fd990ea42) 667 96 94 15
+![correo](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/918883f7-0011-4d0f-8842-24f03a704253) jsellares01@gmail.com
+[![LinkedIn](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/c3c40be2-cb2e-4c05-96e9-1bfa82d99be9)](https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES)
 
