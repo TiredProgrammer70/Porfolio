@@ -34,9 +34,9 @@ Mi aportación en el proyecto fue un poco más de la mitad ya que lo cree con un
 
 [Descargar](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
 
-![telefono](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/17faf312-6d4d-46e9-a7e0-e59fd990ea42) 667 96 94 15
+![telefono](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/89bbdb1d-1b7a-46aa-a041-40212ac4bbb9) 667 96 94 15
 
-![correo](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/918883f7-0011-4d0f-8842-24f03a704253) jsellares01@gmail.com
+![correo](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/669e52b0-1ace-4890-96ec-4e1729ec2414) jsellares01@gmail.com
 
-[![LinkedIn](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/c3c40be2-cb2e-4c05-96e9-1bfa82d99be9)](https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES) LinkedIn
+[![LinkedIn](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/23230369-412c-4728-8b7c-4ca99c51da49)] https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES) LinkedIn
 
