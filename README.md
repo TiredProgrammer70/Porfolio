@@ -14,7 +14,9 @@ Proyecto plataformas con unity.
 https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link
 
 
+```
 [[/images/SlayTheCorruptedBanner.png|Banner de Slay The Corrupted]]
+```
 
 Proyecto final del curso, integracion de elementos roguelike, dessarrollo de bosses con mecanicas flow dentro de unity
 https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link
