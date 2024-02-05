@@ -19,3 +19,5 @@ https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive
 
 Tel. 667 96 94 15
 Correo. jsellares01@gmail.com
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
