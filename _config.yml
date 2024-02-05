@@ -4,3 +4,8 @@ plugins:
 
 baseurl: ""
 url: "https://tiredprogrammer70.github.io"
+
+post_navigation: true
+paginate: 10
+paginate_path: "blog/page:num"
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
