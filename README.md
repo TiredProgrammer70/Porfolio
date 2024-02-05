@@ -1,30 +1,8 @@
-Un porfolio con todos mis proyectos.
-
-Soy Jordi Sellarès i del Castillo, un informático y programador junior de videojuegos.
+Hola a todos, este es mi portfolio donde muestro todos los proyectos de videojuegos que he realizado durante mis estudios y experiencia laboral.
 
 He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y Ocio centrado en la programación de videojuegos, he trabajado mayoritariamente con Unity durante el curso, aprendiendo diferentes estilos de juegos que crear con el motor.
 
-(Titulo)
-
-(Imagen Torre)
-
-La torre de desafiós fue mi primer proyecto de programación en todo el curso, sirvio para aprender las bases de Unity y aprender a programar diferentes funciones, notoriamente aprendi de eventos, corrutinas, y fue el inicio de aprender de importe y configuración de animación dentro de Unity.
-
-Mi aportación en el proyecto fue un poco más de la mitad ya que lo cree con un compañero de ciclo, me ayudo a trabajar mi trabajo en equipo a la hora de programar.
-
-[Mi primer proyecto, Torre de desafios](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
-
-(Titulo)
-
-(Imagen SpaceScape)
-
-SpaceScape fue mi segundo gran proyecto y proyecto de final del primer año del ciclo, se creo durante la pandemia en un més.
-
-SpaceScape lo cree como un plataformas 2D para practicar las fisicas de gravedad y la configuración de las mismas, en este proyecto tambien aprendi a crear parallax con codigo, la funcionalidad de que los objetos del fondo se muevan a diferentes velocidades mientras avanzas por el juego.
-
-[Proyecto plataformas con unity.](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
-
-(Titulo)
+(Slay The Corrupted)
 
 [![SlayTheCorruptedBanner](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/39036217-cdae-4a69-8648-878d05aede3d)](https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link)
 
@@ -36,6 +14,27 @@ Mi parte del proyecto fue la creación de los mapas y la inteligencia del enemig
 
 [Descargar](https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link)
 
-Tel. 667 96 94 15
-Correo. jsellares01@gmail.com
+(SpaceScape)
+
+(Imagen SpaceScape)
+
+SpaceScape fue mi segundo gran proyecto y proyecto de final del primer año del ciclo, se creo durante la pandemia en un més.
+
+SpaceScape lo cree como un plataformas 2D para practicar las fisicas de gravedad y la configuración de las mismas, en este proyecto tambien aprendi a crear parallax con codigo, la funcionalidad de que los objetos del fondo se muevan a diferentes velocidades mientras avanzas por el juego.
+
+[Proyecto plataformas con unity.](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
+
+(Torre de desafios)
+
+(Imagen Torre)
+
+La torre de desafiós fue mi primer proyecto de programación en todo el curso, sirvio para aprender las bases de Unity y aprender a programar diferentes funciones, notoriamente aprendi de eventos, corrutinas, y fue el inicio de aprender de importe y configuración de animación dentro de Unity.
+
+Mi aportación en el proyecto fue un poco más de la mitad ya que lo cree con un compañero de ciclo, me ayudo a trabajar mi trabajo en equipo a la hora de programar.
+
+[Mi primer proyecto, Torre de desafios](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
+
+![telefono](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/b923ffe5-53ca-46d2-b925-deb32bc2404f) 667 96 94 15
+![correo](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/3b0310d4-f3d4-4a54-ae40-a6f0b3c4092a) jsellares01@gmail.com
+[![LinkedIn](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/9c19336a-8939-4cf7-af72-4a9564dc3a38)](https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES)
 
