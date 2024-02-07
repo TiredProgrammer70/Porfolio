@@ -2,7 +2,7 @@ Hola a todos, este es mi porfolio donde muestro todos los proyectos de videojueg
 
 He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y Ocio centrado en la programación de videojuegos, he trabajado mayoritariamente con Unity durante el curso, aprendiendo diferentes estilos de juegos que crear con el motor.
 
-(Slay The Corrupted)
+### Slay The Corrupted
 
 [![SlayTheCorruptedBanner](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/39036217-cdae-4a69-8648-878d05aede3d)](https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link)
 
@@ -14,9 +14,9 @@ Mi parte del proyecto fue la creación de los mapas y la inteligencia del enemig
 
 [Descargar](https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link)
 
-(SpaceScape)
+### SpaceScape
 
-(Imagen SpaceScape)
+<!-- Image SpaceScape -->
 
 SpaceScape fue mi segundo gran proyecto y proyecto de final del primer año del ciclo, se creó durante la pandemia en un mes.
 
@@ -24,9 +24,9 @@ SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas
 
 [Descargar](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
 
-(Torre de desafiós)
+### Torre de desafiós
 
-(Imagen Torre)
+<!-- Image torre -->
 
 La torre de desafíos fue mi primer proyecto de programación en todo el curso, sirvió para aprender las bases de Unity y aprender a programar diferentes funciones, notoriamente aprendí de eventos, corrutinas, y fue el inicio de aprender de importe y configuración de animación dentro de Unity.
 
