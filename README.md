@@ -4,7 +4,9 @@ He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y O
 
 ### Slay The Corrupted
 
-![SlayTheCorruptedBanner](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/39036217-cdae-4a69-8648-878d05aede3d)
+<p align="center">
+<img src="https://github.com/TiredProgrammer70/Portfolio/assets/109514725/39036217-cdae-4a69-8648-878d05aede3d" width="50%" height="50%">
+</p>
 
 Slay the Corrupted fue el proyecto de final de curso, tuvimos entre 2 y 3 meses para desarrollarlo con el equipo de 3 compañeros que éramos, yo fui decidido como el líder del proyecto porque la idea la propuse y explique yo, la idea de este proyecto era crear la base de un juego que fuese comercializable y divertido, para lograr ese fin, decidí añadirle elementos RogueLike de aleatoriedad en cada partida con código complejo de creación automática de mapas.
 
@@ -45,8 +47,9 @@ SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas
 [Descargar](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
 
 ### Torre de desafiós
-
-![TorreMenu](https://github.com/TiredProgrammer70/Porfolio/assets/109514725/6a42bb26-7b33-43e1-8f58-18da6c716648)
+<p align="center">
+<img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/6a42bb26-7b33-43e1-8f58-18da6c716648" width="50%" height="50%">
+</p>
 
 La torre de desafíos fue mi primer proyecto de programación en todo el curso, sirvió para aprender las bases de Unity y aprender a programar diferentes funciones, notoriamente aprendí de eventos, corrutinas, y fue el inicio de aprender de importe y configuración de animación dentro de Unity.
 
