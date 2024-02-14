@@ -87,4 +87,4 @@ Mi aportación en el proyecto fue un poco más de la mitad, ya que lo cree con u
 
 ![correo](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/669e52b0-1ace-4890-96ec-4e1729ec2414) jsellares01@gmail.com
 
-[![LinkedIn](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/54f8e276-28b3-4f53-a695-94c3d372c22b)](https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES) LinkedIn
+[![LinkedIn](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/54f8e276-28b3-4f53-a695-94c3d372c22b)](https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES) [LinkedIn](https://www.linkedin.com/in/jordi-sellares-0ba95b235/?locale=es_ES)
