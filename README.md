@@ -14,9 +14,9 @@ Slay the Corrupted fue el proyecto de final de curso, tuvimos entre 2 y 3 meses 
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/b9384db1-1cbe-4bff-bb21-4d404de3904f" width="30%" height="30%">
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/e430fcf2-9d75-4a5f-8a08-b08809d78969" width="30%" height="30%">
 
-El mapa se genera de forma aleatoria siguiendo un algoritmo que cree yo, permitiendome tambien asignar X numero de habitaciones especiales que tiene que incluir durante la generación del mapa.
+El mapa se genera de forma aleatoria siguiendo un algoritmo que cree yo, permitiéndome también asignar X número de habitaciones especiales que tiene que incluir durante la generación del mapa.
 
-Para facilitar la generacion del mapa, utilize pensamiento creativo y logico para simplificar el codigo, creando una funcion que se llama cuando se genera el mapa y las salas que, convirtiendo cada una de las possibles puertas de la sala de una forma binaria, les asigna potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenia un numero facilmente reconocible asignado.
+Para facilitar la generación del mapa, utilicé pensamiento creativo y lógico para simplificar el código, creando una función que se llama cuando se genera el mapa y las salas que, convirtiendo cada una de las posibles puertas de la sala de una forma binaria, les asigna potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenía un número fácilmente reconocible asignado.
 
 ```
 public int DoorTypes() {
@@ -43,15 +43,15 @@ Mi parte del proyecto fue la creación de los mapas y la inteligencia del enemig
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/5eb7fc15-aa08-4495-bbd4-4caae1196e50" width="50%" height="50%">
 </p>
 
-Primer juego del segundo año del ciclo, estilo Arcade con rejugabilidad, nacio de la necesidad de aprender programación y modelaje en 3D, aplicando fisicas a los disparos, el spawn de enemigos, y movimiento del personaje jugable.
+Primer juego del segundo año del ciclo, estilo arcade con rejugabilidad, nació de la necesidad de aprender programación y modelaje en 3D, aplicando físicas a los disparos, el spawn de enemigos, y movimiento del personaje jugable.
 
-Se aplico un sistema de mejoras permanente en el juego, desbloqueando las mismas con la moneda del juego, estas mejoras se mantienen aun que cierres y abres el juego.
+Se aplicó un sistema de mejoras permanente en el juego, desbloqueando las mismas con la moneda del juego, estas mejoras se mantienen aún que cierres y abres el juego.
 
 <p align="center">
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/558a1839-6f29-4398-b97b-a5ec7cdc1831" width="50%" height="50%">
 </p>
 
-Una vez empiezas una partida, el juego és estilo arcade, teniendo un limite de tiempo para disparar a los diferentes objetivos que van apareciendo, algunos objetivos dando bonuses para mejorar o facilitar la partida.
+Una vez empiezas una partida, el juego es estilo arcade, teniendo un límite de tiempo para disparar a los diferentes objetivos que van apareciendo, algunos objetivos dando bonuses para mejorar o facilitar la partida.
 
 <!--- Cambiar enlace a ejecutable del Android shooter --->
 [Descargar](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
@@ -60,7 +60,7 @@ Una vez empiezas una partida, el juego és estilo arcade, teniendo un limite de 
 
 SpaceScape fue mi proyecto de final del primer año del ciclo, se creó durante la pandemia en un mes.
 
-SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas de gravedad 2D, aprendiendo todas las diferentes configuraciones que se le pueden aplicar a las fisicas para hacer diferentes estilos de saltos, gravedad, movimiento, etc.
+SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas de gravedad 2D, aprendiendo todas las diferentes configuraciones que se le pueden aplicar a las físicas para hacer diferentes estilos de saltos, gravedad, movimiento, etc.
 
 En este proyecto también aprendí a crear parallax con código, la funcionalidad de que los objetos del fondo se muevan a diferentes velocidades mientras avanzas por el juego.
 
