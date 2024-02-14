@@ -14,7 +14,9 @@ Slay the Corrupted fue el proyecto de final de curso, tuvimos entre 2 y 3 meses 
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/b9384db1-1cbe-4bff-bb21-4d404de3904f" width="30%" height="30%">
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/e430fcf2-9d75-4a5f-8a08-b08809d78969" width="30%" height="30%">
 
-Para facilitar la generacion del mapa, utilize pensamiento creativo y logico para simplificar el codigo, creando una funcion que se llama cuando se genera el mapa y las salas que, convirtiendo cada una de las possibles puertas de la sala de una forma binaria, les asigna potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenia un numero facilmente reconocible asignado
+El mapa se genera de forma aleatoria siguiendo un algoritmo que cree yo, permitiendome tambien asignar X numero de habitaciones especiales que tiene que incluir durante la generación del mapa.
+
+Para facilitar la generacion del mapa, utilize pensamiento creativo y logico para simplificar el codigo, creando una funcion que se llama cuando se genera el mapa y las salas que, convirtiendo cada una de las possibles puertas de la sala de una forma binaria, les asigna potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenia un numero facilmente reconocible asignado.
 
 ```
 public int DoorTypes() {
@@ -36,13 +38,31 @@ Mi parte del proyecto fue la creación de los mapas y la inteligencia del enemig
 
 [Descargar](https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link)
 
+### Space Shooter para Android
+<p align="center">
+<img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/5eb7fc15-aa08-4495-bbd4-4caae1196e50" width="50%" height="50%">
+</p>
+
+Primer juego del segundo año del ciclo, estilo Arcade con rejugabilidad, nacio de la necesidad de aprender programación y modelaje en 3D, aplicando fisicas a los disparos, el spawn de enemigos, y movimiento del personaje jugable.
+
+Se aplico un sistema de mejoras permanente en el juego, desbloqueando las mismas con la moneda del juego, estas mejoras se mantienen aun que cierres y abres el juego.
+
+<p align="center">
+<img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/558a1839-6f29-4398-b97b-a5ec7cdc1831" width="50%" height="50%">
+</p>
+
+Una vez empiezas una partida, el juego és estilo arcade, teniendo un limite de tiempo para disparar a los diferentes objetivos que van apareciendo, algunos objetivos dando bonuses para mejorar o facilitar la partida.
+
+<!--- Cambiar enlace a ejecutable del Android shooter --->
+[Descargar](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
+
 ### SpaceScape
 
-<!-- Image SpaceScape -->
+SpaceScape fue mi proyecto de final del primer año del ciclo, se creó durante la pandemia en un mes.
 
-SpaceScape fue mi segundo gran proyecto y proyecto de final del primer año del ciclo, se creó durante la pandemia en un mes.
+SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas de gravedad 2D, aprendiendo todas las diferentes configuraciones que se le pueden aplicar a las fisicas para hacer diferentes estilos de saltos, gravedad, movimiento, etc.
 
-SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas de gravedad y la configuración de las mismas, en este proyecto también aprendí a crear parallax con código, la funcionalidad de que los objetos del fondo se muevan a diferentes velocidades mientras avanzas por el juego.
+En este proyecto también aprendí a crear parallax con código, la funcionalidad de que los objetos del fondo se muevan a diferentes velocidades mientras avanzas por el juego.
 
 [Descargar](https://drive.google.com/file/d/1bnfME8W120nxHo1SxYzcIU6zgQTkQrlQ/view?usp=drive_link)
 
@@ -53,7 +73,12 @@ SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas
 
 La torre de desafíos fue mi primer proyecto de programación en todo el curso, sirvió para aprender las bases de Unity y aprender a programar diferentes funciones, notoriamente aprendí de eventos, corrutinas, y fue el inicio de aprender de importe y configuración de animación dentro de Unity.
 
-Mi aportación en el proyecto fue un poco más de la mitad, ya que lo cree con un compañero de ciclo, me ayudo a trabajar mi trabajo en equipo a la hora de programar.
+<p align="center">
+<img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/f8b45d3a-f88b-4c19-b0ce-c647033bc4f4" width="50%" height="50%">
+</p>
+
+
+Mi aportación en el proyecto fue un poco más de la mitad, ya que lo cree con un compañero de ciclo, me ayudo a mejorar mi trabajo en equipo a la hora de programar.
 
 [Descargar](https://drive.google.com/file/d/1wiRNdZfgetoRrpQHFs_arkirY8-vLujm/view?usp=drive_link)
 
