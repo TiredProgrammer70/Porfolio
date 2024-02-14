@@ -12,7 +12,7 @@ Slay the Corrupted fue el proyecto de final de curso, tuvimos entre 2 y 3 meses 
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/b9384db1-1cbe-4bff-bb21-4d404de3904f" width="30%" height="30%">
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/e430fcf2-9d75-4a5f-8a08-b08809d78969" width="30%" height="30%">
 
-Para facilitar la generacion del mapa, utilize pensamiento creativo y logico para simplificar el codigo, convirtiendo cada una de las possibles puertas de la sala de una forma binaria, asignandoles potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenia un numero facilmente reconocible asignado
+Para facilitar la generacion del mapa, utilize pensamiento creativo y logico para simplificar el codigo, creando una funcion que se llama cuando se genera el mapa y las salas que, convirtiendo cada una de las possibles puertas de la sala de una forma binaria, les asigna potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenia un numero facilmente reconocible asignado
 
 ```
 public int DoorTypes() {
