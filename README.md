@@ -4,9 +4,14 @@ He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y O
 
 ### Slay The Corrupted
 
-[![SlayTheCorruptedBanner](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/39036217-cdae-4a69-8648-878d05aede3d)](https://drive.google.com/file/d/1O50YXRgjCIfhkQlTCcRi0NL4QlLtnIg5/view?usp=drive_link)
+![SlayTheCorruptedBanner](https://github.com/TiredProgrammer70/Portfolio/assets/109514725/39036217-cdae-4a69-8648-878d05aede3d)
 
 Slay the Corrupted fue el proyecto de final de curso, tuvimos entre 2 y 3 meses para desarrollarlo con el equipo de 3 compañeros que éramos, yo fui decidido como el líder del proyecto porque la idea la propuse y explique yo, la idea de este proyecto era crear la base de un juego que fuese comercializable y divertido, para lograr ese fin, decidí añadirle elementos RogueLike de aleatoriedad en cada partida con código complejo de creación automática de mapas.
+
+![mapa1](https://github.com/TiredProgrammer70/Porfolio/assets/109514725/3e591f37-ddb5-4143-9cf5-948fc2d5dd4f)
+![mapa2](https://github.com/TiredProgrammer70/Porfolio/assets/109514725/b9384db1-1cbe-4bff-bb21-4d404de3904f)
+![mapa3](https://github.com/TiredProgrammer70/Porfolio/assets/109514725/e430fcf2-9d75-4a5f-8a08-b08809d78969)
+
 
 Además de trabajar con un algoritmo de aleatoriedad automática, también trabajamos con la creación de GameManagers para controlar el entorno del juego, y clases heredadas para facilitar el uso del código en múltiples instancias.
 
@@ -26,7 +31,7 @@ SpaceScape lo cree como un videojuego plataformas 2D para practicar las físicas
 
 ### Torre de desafiós
 
-<!-- Image torre -->
+![TorreMenu](https://github.com/TiredProgrammer70/Porfolio/assets/109514725/6a42bb26-7b33-43e1-8f58-18da6c716648)
 
 La torre de desafíos fue mi primer proyecto de programación en todo el curso, sirvió para aprender las bases de Unity y aprender a programar diferentes funciones, notoriamente aprendí de eventos, corrutinas, y fue el inicio de aprender de importe y configuración de animación dentro de Unity.
 
