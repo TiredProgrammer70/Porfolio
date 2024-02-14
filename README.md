@@ -8,24 +8,14 @@ He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y O
 
 Slay the Corrupted fue el proyecto de final de curso, tuvimos entre 2 y 3 meses para desarrollarlo con el equipo de 3 compañeros que éramos, yo fui decidido como el líder del proyecto porque la idea la propuse y explique yo, la idea de este proyecto era crear la base de un juego que fuese comercializable y divertido, para lograr ese fin, decidí añadirle elementos RogueLike de aleatoriedad en cada partida con código complejo de creación automática de mapas.
 
-<pre>
-</pre>
-
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/3e591f37-ddb5-4143-9cf5-948fc2d5dd4f" width="30%" height="30%">
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/b9384db1-1cbe-4bff-bb21-4d404de3904f" width="30%" height="30%">
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/e430fcf2-9d75-4a5f-8a08-b08809d78969" width="30%" height="30%">
-<pre>
-
-</pre>
 
 Para facilitar la generacion del mapa, utilize pensamiento creativo y logico para simplificar el codigo, convirtiendo cada una de las possibles puertas de la sala de una forma binaria, asignandoles potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenia un numero facilmente reconocible asignado
-<pre>
 
-</pre>
 <img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/fbb29b8b-0f74-4fc1-a155-9e022a12157b" width="30%" height="30%">
-<pre>
 
-</pre>
 
 Además de trabajar con un algoritmo de aleatoriedad automática, también trabajamos con la creación de GameManagers para controlar el entorno del juego, y clases heredadas para facilitar el uso del código en múltiples instancias.
 
