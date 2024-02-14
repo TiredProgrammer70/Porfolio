@@ -14,7 +14,18 @@ Slay the Corrupted fue el proyecto de final de curso, tuvimos entre 2 y 3 meses 
 
 Para facilitar la generacion del mapa, utilize pensamiento creativo y logico para simplificar el codigo, convirtiendo cada una de las possibles puertas de la sala de una forma binaria, asignandoles potencias de 2, de esa forma, cada una de las 15 combinaciones posibles tenia un numero facilmente reconocible asignado
 
-<img src="https://github.com/TiredProgrammer70/Porfolio/assets/109514725/fbb29b8b-0f74-4fc1-a155-9e022a12157b" width="30%" height="30%">
+```
+public int DoorTypes() {
+   int valueDoors = 0;
+
+   if (doorUp) valueDoors +=1;
+   if (doorBot) valueDoors +=2;
+   if (doorLeft) valueDoors +=4;
+   if (doorRight) valueDoors +=8;
+
+   return valueDoors;
+}
+```
 
 
 Además de trabajar con un algoritmo de aleatoriedad automática, también trabajamos con la creación de GameManagers para controlar el entorno del juego, y clases heredadas para facilitar el uso del código en múltiples instancias.
