@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://tiredprogrammer70.github.io/Porfolio/)
 Hola a todos, este es mi porfolio donde muestro todos los proyectos de videojuegos que he realizado durante mis estudios y experiencia laboral.
 
 He realizado un ciclo superior de Desarrollo de Aplicaciones Multiplataforma y Ocio centrado en la programación de videojuegos, he trabajado mayoritariamente con Unity durante el curso, aprendiendo diferentes estilos de juegos que crear con el motor.
