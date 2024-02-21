@@ -1,4 +1,4 @@
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://tiredprogrammer70.github.io/Porfolio/ReadmeES)
+<a href="https://tiredprogrammer70.github.io/Porfolio/ES"><img alt="Static Badge" src="https://img.shields.io/badge/lang-es-yellow.svg" ></a>
 
 Hello everyone, this is my portfolio where i showcase all of the video games i've made during my studies and work experience.
 
