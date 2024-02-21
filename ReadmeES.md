@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://tiredprogrammer70.github.io/Porfolio/)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://tiredprogrammer70.github.io/Porfolio)
 
 Hola a todos, este es mi porfolio donde muestro todos los proyectos de videojuegos que he realizado durante mis estudios y experiencia laboral.
 
