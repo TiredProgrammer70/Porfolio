@@ -1,4 +1,5 @@
 <a href="https://tiredprogrammer70.github.io/Porfolio"><img alt="Static Badge" src="https://img.shields.io/badge/lang-en-red.svg" align="right"></a>
+Bienvenidos a mi porfolio de mis proyectos de videojuegos.
 
 Hola a todos, este es mi porfolio donde muestro todos los proyectos de videojuegos que he realizado durante mis estudios y experiencia laboral.
 
